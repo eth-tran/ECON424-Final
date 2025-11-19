@@ -1,0 +1,3 @@
+*.csv
+.venv/
+!ECON424_Predictions.csv
