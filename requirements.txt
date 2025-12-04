@@ -3,3 +3,5 @@ numpy
 matplotlib
 scikit-learn
 lightgbm
+seaborn
+wordcloud
